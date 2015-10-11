@@ -3,5 +3,4 @@ BBBB 1
 CCCC 1
 DDDD 1
 EEEE 1
-tmp line
-tmp e 2
+EEEE 2
